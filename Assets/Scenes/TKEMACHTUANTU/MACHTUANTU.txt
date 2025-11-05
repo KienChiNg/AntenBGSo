@@ -1,0 +1,72 @@
+﻿{
+	"title": "Mạch tuần tự",
+	"background": "Image/GradientPinkBlue",
+	"list_sub_lesson": [
+		{
+			"name": "Mạch tuần tự",
+			"image": "ViXuLy/ThietKeMachTuanTu/Image_machtuantu",
+			"content": "ViXuLy/ThietKeMachTuanTu/machtuantu"
+		},
+		{
+			"name": "Sequencing Elements",
+			"image": "ViXuLy/ThietKeMachTuanTu/Image_sequencing",
+			"content": "ViXuLy/ThietKeMachTuanTu/sequencing"
+		},
+		{
+			"name": "Kích thông Transistor Latch",
+			"image": "ViXuLy/ThietKeMachTuanTu/Image_latch1",
+			"content": "ViXuLy/ThietKeMachTuanTu/latch1"
+		},
+		{
+			"name": "Cổng Transmission",
+			"image": "ViXuLy/ThietKeMachTuanTu/Image_latch2",
+			"content": "ViXuLy/ThietKeMachTuanTu/latch2"
+		},
+		{
+			"name": "Bộ đệm đảo",
+			"image": "ViXuLy/ThietKeMachTuanTu/Image_latch3",
+			"content": "ViXuLy/ThietKeMachTuanTu/latch3"
+		},
+		{
+			"name": "Tristate phản hồi",
+			"image": "ViXuLy/ThietKeMachTuanTu/Image_latch4",
+			"content": "ViXuLy/ThietKeMachTuanTu/latch4"
+		},
+		{
+			"name": "Bộ đệm đầu vào",
+			"image": "ViXuLy/ThietKeMachTuanTu/Image_latch5",
+			"content": "ViXuLy/ThietKeMachTuanTu/latch5"
+		},
+		{
+			"name": "Buffered output",
+			"image": "ViXuLy/ThietKeMachTuanTu/Image_latch6",
+			"content": "ViXuLy/ThietKeMachTuanTu/latch6"
+		},
+		{
+			"name": "Mạch chốt đường dữ liệu",
+			"image": "ViXuLy/ThietKeMachTuanTu/Image_latch7",
+			"content": "ViXuLy/ThietKeMachTuanTu/latch7"
+		},
+		{
+			"name": "Flip-flop Design",
+			"image": "ViXuLy/ThietKeMachTuanTu/Image_flip1",
+			"content": "ViXuLy/ThietKeMachTuanTu/flip1"
+		},
+		{
+			"name": "Enable",
+			"image": "ViXuLy/ThietKeMachTuanTu/Image_flip2",
+			"content": "ViXuLy/ThietKeMachTuanTu/flip2"
+		},
+		{
+			"name": "Reset",
+			"image": "ViXuLy/ThietKeMachTuanTu/Image_flip3",
+			"content": "ViXuLy/ThietKeMachTuanTu/flip3"
+		},
+		{
+			"name": "Set / Reset",
+			"image": "ViXuLy/ThietKeMachTuanTu/Image_flip4",
+			"content": "ViXuLy/ThietKeMachTuanTu/flip4"
+		},
+
+	]
+}

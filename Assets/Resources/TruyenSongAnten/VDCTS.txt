@@ -1,0 +1,14 @@
+﻿{
+	"title": "Các vấn đề chung về truyền sóng",
+	"background": "Image/GradientPinkBlue",
+	"image": "Image/lessonThumb_vandechungtruyensong",
+	"sub_lesson_button_prefab": "ButtonSubLessonDetails_1",
+	"list_sub_lesson": [
+		{
+			"name": "Truyền lan sóng trong không gian tự do",
+			"image": "Image/menu1",
+			"event": "View3DContent",
+			"code": "TLSKGTD"
+		}
+	]
+}

@@ -1,0 +1,37 @@
+﻿{
+	"title": "Max & Min Delay",
+	"background": "Image/GradientPinkBlue",
+	"list_sub_lesson": [
+		{
+			"name": "Max-Delay: Flip-Flops",
+			"image": "ViXuLy/ThietKeMachTuanTu/Image_max1",
+			"content": "ViXuLy/ThietKeMachTuanTu/max1"
+		},
+		{
+			"name": "Max Delay: 2-Phase Latches",
+			"image": "ViXuLy/ThietKeMachTuanTu/Image_max2",
+			"content": "ViXuLy/ThietKeMachTuanTu/max2"
+		},
+		{
+			"name": "Max Delay: Pulsed Latches",
+			"image": "ViXuLy/ThietKeMachTuanTu/Image_max3",
+			"content": "ViXuLy/ThietKeMachTuanTu/max3"
+		},
+		{
+			"name": "Min-Delay: Flip-Flops",
+			"image": "ViXuLy/ThietKeMachTuanTu/Image_min1",
+			"content": "ViXuLy/ThietKeMachTuanTu/min1"
+		},
+		{
+			"name": "Min-Delay: 2-Phase Latches",
+			"image": "ViXuLy/ThietKeMachTuanTu/Image_min2",
+			"content": "ViXuLy/ThietKeMachTuanTu/min2"
+		},
+		{
+			"name": "Min-Delay: Pulsed Latches",
+			"image": "ViXuLy/ThietKeMachTuanTu/Image_min3",
+			"content": "ViXuLy/ThietKeMachTuanTu/min3"
+		},
+
+	]
+}

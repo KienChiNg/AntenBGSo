@@ -1,0 +1,14 @@
+﻿{
+	"title": "Truyền lan sóng cực ngắn",
+	"background": "Image/GradientPinkBlue",
+	"image": "Image/lessonThumb_lansongcucngan",
+	"sub_lesson_button_prefab": "ButtonSubLessonDetails_1",
+	"list_sub_lesson": [
+		{
+			"name": "Truyền lan trong giới hạn nhìn thấy trực tiếp",
+			"image": "Image/menu1",
+			"event": "View3DContent",
+			"code": "TLTGHNTTT"
+		},
+	]
+}

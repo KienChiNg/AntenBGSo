@@ -1,0 +1,27 @@
+﻿{
+	"title": "Clock Skew & Time Borrowing",
+	"background": "Image/GradientPinkBlue",
+	"list_sub_lesson": [
+		{
+			"name": "Skew: Flip-Flops",
+			"image": "ViXuLy/ThietKeMachTuanTu/Image_skew1",
+			"content": "ViXuLy/ThietKeMachTuanTu/skew1"
+		},
+		{
+			"name": "Skew: Latches",
+			"image": "ViXuLy/ThietKeMachTuanTu/Image_skew2",
+			"content": "ViXuLy/ThietKeMachTuanTu/skew2"
+		},
+		{
+			"name": "Time Borrowing",
+			"image": "ViXuLy/ThietKeMachTuanTu/Image_timeborrow1",
+			"content": "ViXuLy/ThietKeMachTuanTu/timeborrow1"
+		},
+		{
+			"name": "Định lượng Time Borrowing",
+			"image": "ViXuLy/ThietKeMachTuanTu/Image_timeborrow2",
+			"content": "ViXuLy/ThietKeMachTuanTu/timeborrow2"
+		},
+
+	]
+}

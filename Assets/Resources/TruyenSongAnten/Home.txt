@@ -1,0 +1,19 @@
+﻿{
+	"title": "TRUYỀN SÓNG & ANTEN",
+	"background": "Image/GradientPinkBlue",
+	"sub_lesson_button_prefab": "ButtonSubLesson_1",
+	"list_sub_lesson": [
+		{
+			"name": "Mô hình truyền sóng",
+			"image": "Image/lesson_vandechungtruyensong",
+			"event": "View3DContent",
+			"code": "VDCTS/TLSKGTD"
+		},
+		{
+			"name": "Truyền lan sóng cực ngắn",
+			"image": "Image/lesson_lansongcucngan",
+			"event": "View3DContent",
+			"code": "TLSCN/TLTGHNTTT"
+		},
+	]
+}

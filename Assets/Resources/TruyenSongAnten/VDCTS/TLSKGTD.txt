@@ -1,0 +1,25 @@
+﻿{
+	"title": "Mô hình truyền sóng",
+	"background": "Image/GradientPinkBlue",
+	"list_sub_lesson": [
+		{
+			"name": "Bức xạ vô hướng",
+			"model": "TruyenSongAnten/bucxaVohuong",
+			"content": "TruyenSongAnten/bucxa_vohuong",
+			"animation_controller": "AnimationControllerBucxaVohuong"
+			
+		},
+		{
+			"name": "Bức xạ có hướng",
+			"model": "TruyenSongAnten/bucxaCohuong",
+			"content": "TruyenSongAnten/bucxa_cohuong",
+			"animation_controller": "AnimationControllerBucxaCohuong"
+		},
+		{
+			"name": "Lý thuyết",
+			"image": "TruyenSongAnten/Image_tongket",
+			"content": "TruyenSongAnten/congsuatthu"
+		},
+
+	]
+}

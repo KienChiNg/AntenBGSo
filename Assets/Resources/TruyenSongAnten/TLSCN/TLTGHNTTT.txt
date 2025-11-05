@@ -1,0 +1,15 @@
+﻿{
+	"title": "Truyền lan trong giới hạn nhìn thấy trực tiếp",
+	"background": "Image/GradientPinkBlue",
+	"list_sub_lesson": [
+		{
+			"name": "Mô hình truyền sóng",
+			"model": "TruyenSongAnten/antenCity",
+			"content": "TruyenSongAnten/truonghoptongquat",
+			"animation_controller": "AnimationControllerAntenCity"
+			
+		},
+		
+
+	]
+}
